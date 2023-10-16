@@ -10,6 +10,9 @@
 本系统后端使用spring+mybatis框架。数据库使用的是mysql数据库。<br>
 该系统功能完善，界面美观，非常适合作为毕设或者课程作业以及新手开发学习。<br>
 
+## 视频介绍
+<a href="https://www.bilibili.com/video/BV1Wp4y1T7FT/" target="_blank">点击查看B站视频介绍</a>
+
 ## 功能介绍
 <img src="./images/gn.jpg" width="600" height="600" /><br>
 
